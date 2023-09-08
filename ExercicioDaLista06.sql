@@ -1,0 +1,1 @@
+SELECT livros count(*) FROM autores;
