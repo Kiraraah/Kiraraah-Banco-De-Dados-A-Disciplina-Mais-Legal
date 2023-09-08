@@ -1,0 +1,1 @@
+select autores from nascimento;
